@@ -6,9 +6,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>JDays2016</module>
         <module>JDays2016-SprintBoot</module>
         <module>JDays2016-WildFlySwarm</module>
+        <module>JDays2016-payara</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

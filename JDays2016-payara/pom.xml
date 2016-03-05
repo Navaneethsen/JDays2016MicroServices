@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>JDays2016</name>
+    <name>JDays2016-payara</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
